@@ -6,11 +6,11 @@
 
 💼 Current Role: Full Stack Developer at Kolkata
 📍 Location: West Bengal , Kolkata
-🎓 Education:
-Master's in Computer Application
-Bachelor's in Computer Application
-Self-Taught Developer and Designer
-
+<ul>🎓 Education: 
+<li>Master's in Computer Application</li>
+<li>Bachelor's in Computer Application</li>
+<li>Self-Taught Developer and Designer</li>
+</ul>
 
 🌱 Currently Learning: Docker, Kubernetes, Web3,Smart Contact
 🥅 2025 Goals: Create 5+ projects and learn 5-10 new technologies
