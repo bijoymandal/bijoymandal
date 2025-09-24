@@ -1,11 +1,12 @@
 <h1>👋 Hi, I'm Bijoy Mandal!</h1>
 
-<h3>I'm a Full Stack Developer at Kolkata, based in India,West Bengal 🏔️. Passionate about crafting innovative solutions in web development,Smart Contract, and beyond. I love turning ideas into code and creating user-friendly experiences! 🚀 </h3>
+<h3>I'm a Full Stack Developer 🏔️. Passionate about crafting innovative solutions in web development,Smart Contract, and beyond. I love turning ideas into code and creating user-friendly experiences! 🚀 </h3>
 
 🧑‍💻 About Me
-
+<li>
 💼 Current Role: Full Stack Developer at Kolkata
 📍 Location: West Bengal , Kolkata
+</li>            
 <ul>🎓 Education: 
 <li>Master's in Computer Application</li>
 <li>Bachelor's in Computer Application</li>
